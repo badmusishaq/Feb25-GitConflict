@@ -1,3 +1,6 @@
 Started a branch project
 
-Added a new line in repoB
+Added a new line in repoB.
+
+Updating repo B.
+
