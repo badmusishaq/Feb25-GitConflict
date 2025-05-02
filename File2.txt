@@ -4,3 +4,5 @@ Added a new line in repoB.
 
 Updating repo B.
 
+Random text in repo A.
+
