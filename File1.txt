@@ -1,5 +1,5 @@
 ....Starting a new project
 
-Repo B - edited.....Starting a new project
+Repo B - edited
 
 Modified in Repo A.
